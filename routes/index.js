@@ -1,9 +1,9 @@
-var express = require('express');
-var router = express.Router();
+const express = require('express');
+const router = express.Router();
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Sheets of Darkness' });
+router.get('/', (req, res) => {
+  const { userContext } = req;
+  res.render('index', { userContext });
 });
 
 module.exports = router;
