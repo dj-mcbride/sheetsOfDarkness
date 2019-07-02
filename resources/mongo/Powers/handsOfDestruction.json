@@ -1,0 +1,42 @@
+{
+    "name" : "Auspex",
+    "rank" : "Basic",
+    "type" : "Discipline",
+    "description" : " ",
+    "retests" : "",
+    "rank_1" : { 
+        "cost" : 3,
+        "rank" : "Basic",
+        "name" : "",
+        "effect" : "",
+        "description" : ""
+    },
+    "rank_2" : { 
+        "cost" : 3,
+        "rank" : "Basic",
+        "name" : "",
+        "effect" : "",
+        "description" : ""
+    },
+    "rank_3" : { 
+        "cost" : 6,
+        "rank" : "Intermediate",
+        "name" : "",
+        "effect" : "",
+        "description" : ""
+    },
+    "rank_4" : { 
+        "cost" : 6,
+        "rank" : "Intermediate",
+        "name" : "",
+        "effect" : "",
+        "description" : ""
+    },
+    "rank_5" : { 
+        "cost" : 9,
+        "rank" : "Advanced",
+        "name" : "",
+        "effect" : "",
+        "description" : ""
+    }
+}
