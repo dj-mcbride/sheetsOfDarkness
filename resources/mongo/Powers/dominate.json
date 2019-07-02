@@ -1,6 +1,5 @@
 {
     "name" : "Dominate",
-    "rank" : "Basic",
     "type" : "Discipline",
     "description" : "Many Cainites are willful creatures, casting about their ambitions and bending mortals to their desires. For some, though, the strength of will channels into the power to bend minds and control actions. With a piercing gaze and a forceful word, Dominate can cause even the strongest mortal mind to crumble and push even other vampires to accede to one's desires.  Most Dominate powers require the victim to meet the Cainite's gate and to hear his commands. Simple sunglasses do not protect against this power, as long as the subject can see the dominator's eyes, he can be affected. Furthermore, commands may be issued silently with Telepathy, as long as the victim meets the dominator's gate.  Dominate is most common among the Giovanni, Lasombra, Tremere and Ventrue clans, who all exercise their authority unflinchingly.  Retests with Dominate use the Intimidation Ability, as the vampire exercises his powerful will against your subject. A subject may attempt a retest by expending a single Willpower Trait, and may only make one retest per challenge. A vampire of lower generation is always immune to a weaker vampire's Dominate powers (although canny elders may feign otherwise)",
     "retests" : "Intimidation",

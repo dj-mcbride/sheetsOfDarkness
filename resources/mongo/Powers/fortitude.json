@@ -1,6 +1,5 @@
 {
     "name" : "Fortitude",
-    "rank" : "Basic",
     "type" : "Discipline",
     "description" : "All vampires are supernaturally resilient, capable of surviving blows, slashes, bullet wounds and falls with impunity. Some few, however, are even more powerfully resilient, able to shrug off the most severe wounds and even resist the powers of fire and sunlight for a short time. The Discipline of Fortitude represents such resilience, and its mastery allows survival of situations that would otherwise cause Final Death in lesser Cainites.  The nomadic Gangrel and Ravnos clans, who must survive the rigors of the wilderness and travel, most commonly possess Fortitude. The Ventrue also exhibit this Discipline, often leading their charges into battle while shrugging off terrible attacks.  Retests on Fortitude powers use the Survival Ability.",
     "retests" : "Survival",
