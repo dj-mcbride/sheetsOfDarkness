@@ -1,6 +1,6 @@
 {
-    "name" : "The Bone Path",
-    "type" : "Path",
+    "name" : "Necromancy Rituals",
+    "type" : "Rituals",
     "source" : "Necromancy",
     "description" : "The sinister secrets of Necromancy are not confined to the static paths alone. Skilled necromancers create rituals, forms of magic designed to go beyond the basic capabilities of Necromancy. With the appropriate materials, training and time, a necromancer can use rituals to create wide-ranging or long-lasting effects that would otherwise be difficult to do with simple paths.  On learning Necromancy, the individual leams one Basic ritual. For each level of Necromancy leamed, another ritual of the appropriate level is also leared; thus, a necromancer with Advanced Necromancy knows at least two Basic rituals, two Intermediate rituals and one Advanced ritual. Leaming additional rituals requires the expenditure of time and Influence, as appropriate. Leaming a ritual also requires that the vampire possess a level of Necromancy equal to or greater than the ritual's level of power.  Casting a ritual requires a Static Mental Challenge with a difficulty of nine Traits. Unless otherwise noted, Basic rituals take 10 minutes to cast, Intermediate rituals require 20 minutes and Advanced rituals take 30 minutes.",
     "Basic Rituals" : [

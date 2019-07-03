@@ -1,0 +1,258 @@
+[
+    {
+        "name" : "Academics",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You possess a level of education and general knowledge beyond rudimentary schooling. With Academics, you can express artistic criticism, debate the classics, consider philosophy and indulge in studies of culture. This broad Ability covers all sorts of humanities in learning.  Academics allows you to recognize historical, art and cultural references. You can use Academics when working in such fields, when developing a critique or researching. Calling on Academics Ability may require a Mental or Social Challenge to determine your exact level of competence.  You may further direct your studies by choosing a specific field, such as Art Criticism, Classical Studies, History, Journalism, Theology or anything else that could be studied with higher education"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Most animals find Kindred frightening. With Animal Ken, you have learned to understand animals, and you can sometimes deal with them more equitably. Though they may retain a healthy fear of the predator lurking within you, you know what drives them and how to assuage their fears.  Animal Ken is often used with the Animalism Discipline. With Animal Ken, you can train an animal (especially a ghoul) into particular behaviors (stay, fetch, attack), or attempt to deduce an animal's state of being (injured, angry, frightened, etc.) with a Mental Challenge. If you work with an animal over a long period of time (generally a month or so), you may be able to teach it a simple trick, up to a limit of one trick for each Mental Trait that the animal has."
+    },
+    {
+        "name" : "Athletics",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Whether due to a background in sports or just personal talent, you are skilled in all manner of athletic endeavors. You can throw a ball, sprint, climb, jump and swim. This last can be especially useful to vampires, who do not naturally float.  Your Athletics Ability is used for retests on most forms of raw physical activity: acrobatics, swimming, jumping, throwing, climbing and running. You may choose to focus on something you do especially well."
+    },
+    {
+        "name" : "Awareness",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You have a talent for knowing when things are not as they should be, whether by that strange feeling in the pit of your gut or through tested observation. This is particularly useful for sensing when other supernatural creatures about, detecting evidence of Numina or other strange phenomena, or just getting that weird feeling when the laws of nature are about to take a hard left.  Awareness requires a Mental Challenge to use, and retests are made with the Occut Ability."
+    },
+    {
+        "name" : "Brawl",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Back-alleys, martial arts schools and rough bars are your stomping ground. You might have military training, or maybe you just grew up with a passel of roughand-tumble siblings. Whatever the case, you know how to dish out damage with your fists and feet.  Use the Brawl Ability for retests in combat when you are using your natural weapons (teeth, claws or fists). This Ability is also the province of the martial arts, although you should specify which art when taking this Ability."
+    },
+    {
+        "name" : "Computer",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Most Cainites have difficulty adapting to modem inventions. As a result, an understanding of cutting-edge technology makes for dangerous knowledge. With the Computer Ability, you understand how to use, program and access computers of all sorts.  Use Computer with a Mental Challenge (difficulty determined by the Storyteller) to break into systems, alter data, write programs or figure out unfamiliar operations."
+    },
+    {
+        "name" : "Crafts",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You can build things. Depending on your area of expertise, you know how to manufacture items and make handy tools or decorations. You must choose a focus for Crafts, specifying your form of creation: Carpentry, Clockworks, Blacksmithing, Leatherworking and the like are all possibilities. You can fashion works of art, studying Painting, Drawing or similar physical media. Crafts also covers more technical skills done with labor, such as Mechanics and Electronics.  Making or repairing an item with Crafts usually involves a Physical Challenge of your dexterity, with difficulty set by the Storyteller based on the type of job (making a concealed spring-loaded trap is far more difficult than planing a board, for instance). Artistic works designed with Crafts x 3 or better may entrance Toreador, at the discretion of the Storyteller.  The Tzimisce practice a focus of Body Crafts when using Vicissitude. This Ability covers tattooing, piercing, flaying and all other applications thereof regarding the alteration of the body."
+    },
+    {
+        "name" : "Dodge",
+        "open" : true,
+        "cost" : 1,
+        "description" : "When trouble rears its ugly head, you know how to get out of its way Unhesitating reactions let you evade blows and shots, getting out of the way of injury. You can use Dodge against any attack that you're aware of: diving for cover as someone fires a gun or twisting away from a sword, for instance. Dodge may be used as a retest when defending against an attack that you can see or sense coming."
+    },
+    {
+        "name" : "Drive",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Though most people can drive in the modem age, you can drive well. You're equally at home with a stick shift or an automatic, rush hour is no concem and you can get the most performance out of a car. In dangerous situations, you can evade traffic and even use your vehicleasa weapon. Bear in mind that just because you can drive a station wagon doesn't mean you can drive a semi with equal ease. A Mental Challenge may be required to allow you to figure out where everything is in an unfamiliar vehicle.  Drive tests most often involve a Physical Challenge of your reflexes."
+    },
+    {
+        "name" : "Empathy",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You are sensitive to the moods and emotions of people around you. When you listen to someone, you understand her feelings. You can identify with others and tell when people are lying or holding back while talking to you.  With a Social Challenge and the expenditure of an Empathy Ability, you can determine if the last thing that someone said was a lie (although Subterfuge can defend against this expenditure). Alternately, you can attempt to determine the subject's current Demeanor."
+    },
+    {
+        "name" : "Etiquette",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Even though knowing which fork to use isn't as important to Kindred society, you do know the proper way to greet someone, when to rise and how to make introductions. You can hold a toast with the best of them, and you keep your cool in any social scenario, from high tea to a gang's rally.  The Etiquette Ability can be used with Social Tests to impress or blend in at parties. If you make a social faux pas, you may expend an Etiquette Ability immediately to negate the gaffe - your character knew better than to make the mistake."
+    },
+    {
+        "name" : "Expression",
+        "open" : true,
+        "cost" : 1,
+        "description" : "Words and feelings flow freely from you. When the muse strikes, you put pen to paper (or fingers to instrument) and pour out a torrent of emotion and stirring imagery. You can convey message and meaning in your art, from symphonies to poetry, and whatever you write is both clear and moving.  When writing or composing, you can sink true Expression into the work. Works created with Expression x 3 or more have the potential to entrance Toreador, as per their clan weakness."
+    },
+    {
+        "name" : "Finance",
+        "open" : true,
+        "cost" : 1,
+        "description" : "The world of money and business awaits your whim. You understand interest, CDs stock market transactions, currency exchanges and GNP A little France lets you make quite a bit of money. You can also use your Finance to balance books or run a business of your own.  Typically, you can run a business, follow a money trail, perform an auditor clean up an accounting mess with a Mental Challenge (difficulty dependent on the task, as determined by the Storyteller). Alternately, you can expend a level of Finance Ability to raise cash between games. Not every use of Finance is so benign -money laundering operations have to come from somewhere."
+    },    
+    {
+        "name" : "Firearms",
+        "open" : true,
+        "cost" : 1,
+        "description" : "A little time at the gun range goes a long way. You know how to hold, fire and clean a gun. You can unjam one, too, and you can tell different models apart. You know how to stand to get the bestaim, how to handle recoil and how to take care of problems in the field.  If you possess the Firearms Ability, you may use your Mental Traits for gun combat instead of using Physical Traits, at no cost. You can expend Firearms for a retest in ranged-fire combat."
+    },
+    {
+        "name" : "Hobby",
+        "open" : true,
+        "specalization" : true,
+        "cost" : 1,
+        "description" : "In a certain area of expertise not covered by another Ability, you have achieved some level of skill. You may have a small grasp of a trade due to some work on the side, or perhaps you've specifically studied a topic.   This ability is a catch-all category for highly unusual Abilities like Cainite Lore, Thanatology, Demolitions and so on. Any Ability of this type must be specifically approved by the Storyteller, and it has its capabilities defined by the Storyteller."
+    },   
+    {
+        "name" : "Professional",
+        "open" : true,
+        "specalization" : true,
+        "cost" : 1,
+        "description" : "In a certain area of expertise not covered by another Ability, you have achieved some level of skill. You may have a small grasp of a trade due to some work on the side, or perhaps you've specifically studied a topic.   This ability is a catch-all category for highly unusual Abilities like Cainite Lore, Thanatology, Demolitions and so on. Any Ability of this type must be specifically approved by the Storyteller, and it has its capabilities defined by the Storyteller."
+    },  
+    {
+        "name" : "Expert",
+        "open" : true,
+        "specalization" : true,
+        "cost" : 1,
+        "description" : "In a certain area of expertise not covered by another Ability, you have achieved some level of skill. You may have a small grasp of a trade due to some work on the side, or perhaps you've specifically studied a topic.   This ability is a catch-all category for highly unusual Abilities like Cainite Lore, Thanatology, Demolitions and so on. Any Ability of this type must be specifically approved by the Storyteller, and it has its capabilities defined by the Storyteller."
+    },  
+    {
+        "name" : "Investigation",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You know how to pick up clues and put together disparate pieces of information By habit and training, you can set a jumbled mass of data into order, discovering identities, motives and patterns in an otherwise chaotic scene. You can use Investigation with a Mental Challenge when trying to puzzle out meaning to a random scene, or with most Auspex Discipline powers."
+    },
+    {
+        "name" : "Law",
+        "open" : true,
+        "cost" : 1,
+        "specalization" : true,
+        "description" : "Nobody is above the law, except those who know how to use it to their own advantage. You're one of the latter. Perhaps you uphold the law, or maybe you twist it to your own ends. Your knowledge of Law allows you to understand legal processes, courts and lawyers, and to use them effectively.  Use the Law Ability in court situations or with Social Challenges involving legal matters. Because the legal body is so vast, your Storyteller may require you to select a particular area of study (Criminal, Civil, Tax, etc.). Alternately, you may choose to study Kindred law in depth."
+    },    
+    {
+        "name" : "Leadership",
+        "open" : true,
+        "cost" : 1,
+        "description" : "When you speak, people listen. A good speaking voice and self-confidence lend a powerful presence to a leader. The Leadership Ability represents your ability to motivate people and to get them to follow your guidance. Even among those who do not know or respect you, you can demand attention.  You can use Leadership with a Social Challenge to try to get a minor favor or task from a character. Leadership is also used with many Presence powers."
+    },
+    {
+        "name" : "Linguistics",
+        "open" : true,
+        "cost" : 1,
+        "specalization" : true,
+        "description" : "You've studied a language - or languages - other than your native tongue. Whether you're an older vampire whose childhood language is no longer spoken, you frequent the global community, or it is necessary for other studies, you can speak, write and read other languages.  You must choose one language for each level of Linguistics you possess. Thus, you could have Linguistics:Cantonese and Linguistics: German. Alternately, you can focus on the underlying study of Linguistics itself, granting some understanding of the principles behind the structure of language. Languages need not be spoken; American Sign Language or Egyptian hieroglyphics would also be considered fields for study. Those who wish to converse in another language (but cannot actually do so) should hold up one hand with the first finger and thumb making an L-shape to indicate to other players the characters are not speaking English. Those who wish to listen in must also possess the language."
+    },
+    {
+        "name" : "Medicine",
+        "open" : true,
+        "cost" : 1,
+        "specalization" : true,
+        "description" : "You know how the human (and, to a lesser extent, Cainite) body functions. You can speed the recovery and healing of an injured mortal, or you can use your knowledge to inflict injury. Many Cainites learn just enough to know where to bite their victims or how to punish their ghouls.  You can use the Medicine Ability to speed a mortal's healing by one category: a Wounded mortal would heal as if Bruised, for instance. Medicine may be used for other sorts of research and lab work with a Mental Challenge. As Medicine represents such a vast field, your Storyteller may require you to specify what you know (Pharmaceuticals, Internal Medicine, General Practice)."
+    },
+    {
+        "name" : "Melee",
+        "open" : true,
+        "cost" : 1,
+        "description" : "If you've got something in your hands, you're a deadly fighter. Be it a sword, a stick or a set of nunchaku, you can use it to damaging effect. Expend Melee for retests in hand-to-hand combat when you are using a close combat weapon like a knife or a chair. Certain weapons function best when wielded by a character with Melee."
+    },    
+    {
+        "name" : "Occult",
+        "open" : true,
+        "cost" : 1,
+        "description" : "The hidden world teems with mysterious secrets. By unlocking universal keys and studying the basics of spirituality, you can learn the shadowy paths of the cosmos. Your Occult Ability serves as a general knowledge of the supernatural, alerting you to the existence of many varied sorts of inhuman creatures and paranormal events.  Some Disciplines, most notably Thaumaturgy, rely on the Occult Ability. Occult grants some basic (and sometimes erroneous) knowledge of the various denizens of the supernatural world; for more detailed information, study Expert Ability: Lore in your particular subject of interest."
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    },
+    {
+        "name" : "Animal Ken",
+        "open" : true,
+        "cost" : 1,
+        "description" : "You"
+    }
+]
