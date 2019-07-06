@@ -1,0 +1,98 @@
+{
+    "assamites" : { 
+        "name" : "Assamites",  
+        "faction" : "Independent",
+        "description" : "Dreaded Assassins from the Middle East, the Assamites hunt other Cainites for vitae and study powers of silent death.",
+        "disciplines" : [ "Celerity", "Obfuscate", "Quietus" ]
+    },
+    "brujah" : { 
+        "name" : "Brujah", 
+        "faction" : "Camarilla",
+        "description" : "Ideological revolutionaries and rebels, the Rabble serve their causes with passion.",
+        "disciplines" : [ "Celerity", "Potence", "Presence" ]
+    }, 
+    "followersOfSet" : { 
+        "name" : "Followers of Set", 
+        "faction" : "Independent",
+        "description" : "Distrust and suspicion follow the Serpents in their quest for forbidden knowledge and service to a sleeping god.",
+        "disciplines" : [ "Obfuscate", "Presence", "Serpentis" ]    
+    },    
+    "gangrel" : { 
+        "name" : "Gangrel", 
+        "faction" : "Independent",
+        "description" : "No city holds sway over the Outlanders, who wander the wilderness and survive as vampiric predators among animals.",
+        "disciplines" : [ "Animalism", "Fortitude", "Protean" ]
+    },
+    "giovanni" : { 
+        "name" : "Giovanni", 
+        "faction" : "Independent",
+        "description" : "The Necromancers keep a veneer of businesslike respectability over their family's dark practices.",
+        "disciplines" : [ "Dominate", "Necromancy", "Potence" ]
+    },
+    "lasombra" : { 
+        "name" : "Lasombra", 
+        "faction" : "Sabbat",
+        "description" : "The majestic and terrible Keepers control spiritual darkness itself in seeking to manipulate mortal and undead societies.",
+        "disciplines" : [ "Dominate", "Obtenebration", "Potence" ]
+    },
+    "malkavians" : { 
+        "name" : "Malkavians", 
+        "faction" : "Camarilla",
+        "description" : "The deranged Lunatics claim a fractured insight into the workings of reality.",
+        "disciplines" : [  "Auspex", "Dementation", "Obfuscate" ]
+    },
+    "nosferatu" : { 
+        "name" : "Nosferatu", 
+        "faction" : "Camarilla",
+        "description" : "The hideous curse of blood warps the physical visage of each of the Sewer Rats, but others respect and fear their mastery of hidden byways and secret-gathering.",
+        "disciplines" : [ "Animalism", "Obfuscate", "Potence" ]
+    },
+    "ravnos" : { 
+        "name" : "Ravnos", 
+        "faction" : "Independent", 
+        "description" : "Claiming kinship to Gypsies, the wandering Deceivers hail from India with power over illusions.",
+        "disciplines" : [ "Animalism", "Chimerstry", "Fortitude" ]
+    },
+    "toreador" : { 
+        "name" : "Toreador", 
+        "faction" : "Camarilla", 
+        "description" : "Protectors of culture and promoters of art make up the Degenerates, but they also include sycophants and pleasureseekers in their ranks.",
+        "disciplines" : [ "Auspex", "Celerity", "Presence" ] 
+    },
+    "tremere" : { 
+        "name" : "Tremere", 
+        "faction" : "Camarilla", 
+        "description" : "Ruthless and insular, the Warlocks and their potent blood magic are untrusted, but grudgingly respected.",
+        "disciplines" : [ "Auspex", "Dominate", "Thaumaturgy" ]
+    },
+    "tzimisce" : { 
+        "name" : "Tzimisce", 
+        "faction" : "Sabbat", 
+        "description" : "Hailing from Eastern Europe, the inhuman Fiends study mortal and vampire alike with clinical coldness and utter ruthlessness.",
+        "disciplines" : [ "Animalism", "Auspex", "Vicissitude" ]
+    },
+    "ventrue" : { 
+        "name" : "Ventrue",
+        "faction" : "Camarilla", 
+        "description" : "Rulers of board room and battlefield, the Blue Bloods lead other Kindred as their right and responsibility.",
+        "disciplines" : [ "Dominate", "Fortitude", "Presence" ]
+    },
+    "daughtersOfCacophony" : { 
+        "name" : "Daughters of Cacophony", 
+        "faction" : "Independent", 
+        "description" : "Heralds of song and voice, the Sirens music leads others to enlightenment or madness.",
+        "disciplines" : [ "Fortitude", "Melpominee", "Presence" ]
+    },
+    "salubri" : { 
+        "name" : "Salubri", 
+        "faction" : "Independent", 
+        "description" : "Reviled as soul-stealers and diablerists, the Cyclops flee from persecution while hunting spiritual insight.",
+        "disciplines" : [ "Auspex", "Fortitude", "Obeah" ]
+    },
+    "samedi" : { 
+        "name" : "Samedi", 
+        "faction" : "Independent",
+        "description" : "Rotting and monstrous, the Stiffs claim terrifying control over the processes of death and the secrets of immortality.",
+        "disciplines" : [ "Fortitude", "Obfuscate", "Thanatosis" ]
+    } 
+} 
