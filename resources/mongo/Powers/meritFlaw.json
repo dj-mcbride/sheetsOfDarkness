@@ -287,6 +287,12 @@
             "cost" : 4,
             "description" : "The organs and blood-bearing tissue of your victims are staples of your diet. You believe that you must consume the liver, kidneys, heart and other pieces in order to sustain yourself. You must purchase the Eat Food Merit so that you can devour the meaty bits. You can only absorb Blood Traits by eating these organs, blood drunk from other sources is vomited back up. This hunger will necessitate the deaths of your victims, and it could lead to interesting problems with the Masquerade and maintaining Morality.",
             "prerequisite" : { "meritFlaw" : "eatFood" }   
+        },
+        "derangement" : {
+            "name" : "Deragement",
+            "cost" : 2,
+            "description" : "Mental instability and insanity plague many vampires, who are gripped by their guilt, remorse and inability to deal with the changing world. Derangements represent specific mental problems that sometimes crop up in situations of stress",
+            "prerequisite" : { "derangements" : "==1" }
         }
     },
     "socialMerits" : { 
