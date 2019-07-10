@@ -1,0 +1,39 @@
+{
+    "idNo"
+    "name" : "",
+    "character" : "",
+    "chronicle" : "",
+    "clan" : "",
+    "generation" : "",
+    "age" : "",
+    "nature" : "",
+    "demeanor" : "",
+
+    "traits" : {
+        "physicalTraits" : "",
+        "socialTraits" : "",
+        "mentalTraits" : ""
+    },
+
+    "negTraits" : {
+        "negPhysicalTraits" : "",
+        "negSocialTraits" : "",
+        "negMentalTraits" : "",  
+    },
+
+    "abilities" : "",
+    "disciplines" : "",
+    "backgrounds" : "",
+    "influences" : "",
+    "merits" : "",
+    "flaws" : "",
+
+    "moralityPath" : "",
+    "conscienceConviction" : "",
+    "selfControlInstinct" : "",
+    "courage" : "",
+    "blood" : "",
+    "willpower" : "",
+    "health" : ""
+
+}
