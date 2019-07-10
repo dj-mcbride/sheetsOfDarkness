@@ -32,11 +32,13 @@
     "status" : "",
 
     "moralityPath" : "",
+
     "virtues" : {
         "conscienceConviction" : "",
         "selfControlInstinct" : "",
         "courage" : "" 
 },
+
     "blood" : "",
     "willpower" : "",
     "health" : ""
